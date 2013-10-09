@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-git clone https://github.com/OrneeMendii/Spoon-Knife.git
+If you are reading this, you are the coolest person in the world ;)
